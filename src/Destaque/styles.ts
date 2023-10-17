@@ -7,7 +7,19 @@ export const Container = styled.div`
   padding-top: 1rem;
 `
 export const DestaqueImagem = styled.img`
+    border: medium solid white;
+    border-radius: 5px;
     margin-top: 2rem;
-    height: 400px;
-    width: 500px;
+    height: 300px;
+    opacity: 70%;
+    width: 350px;
+`
+
+export const DestaqueTituloDoProcedimento = styled.h2`
+  background-color: ${({ theme }) => theme.colors.purple};
+  border-radius: 10px;
+  font-size: ${({ theme }) => theme.fontSize.xl};
+  margin: 1px 380px;
+
+  width: 300px;
 `
