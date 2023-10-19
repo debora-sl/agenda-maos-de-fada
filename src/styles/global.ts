@@ -5,7 +5,7 @@ export const GlobalStyle = createGlobalStyle`
     min-height: 100%;
   }
   body {
-    background: ${(props) => props.theme.colors.lightPink};
+    background: ${(props) => props.theme.colors.purple2};
     color: ${(props) => props.theme.colors.white};
     font-family: ${(props) => props.theme.fontFamily.sans};
   }

@@ -16,6 +16,7 @@ declare module 'styled-components' {
       blue: string
       indigo: string
       purple: string
+      purple2: string
       lightPurple: string
       pink: string
       lightPink: string

@@ -7,7 +7,7 @@ export const Container = styled.div`
   padding-top: 1rem;
 `
 export const DestaqueImagem = styled.img`
-    border: medium solid white;
+    border: thick solid white;
     border-radius: 5px;
     margin-top: 2rem;
     height: 300px;
