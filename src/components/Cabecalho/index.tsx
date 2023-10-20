@@ -1,7 +1,10 @@
-import { Container } from "./styles"
+import { Logo } from "./styles"
 
+import logo from '../../assets/logo.png'
 
 export function Cabecalho(){
-  return <Container>Mãos de Fada</Container>
+  return (
+  <Logo src={logo}/>
+  )
 }
 
