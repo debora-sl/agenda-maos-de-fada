@@ -1,4 +1,4 @@
-import { Logo } from "./styles"
+import { Logo } from './styles'
 
 import logo from '../../assets/logo.svg'
 
