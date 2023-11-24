@@ -1,4 +1,4 @@
-import { Container, DestaqueImagem, DestaqueTituloDoProcedimento } from "./styles"
+import { DestaqueImagem, DestaqueTituloDoProcedimento } from "./styles"
 import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
 

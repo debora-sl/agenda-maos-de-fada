@@ -1,6 +1,6 @@
 import { Cabecalho } from '../../components/Cabecalho'
-import { Logo } from '../../components/Cabecalho/styles'
 import { Destaque } from '../../Destaque'
+import { Formulario } from '../../Formulario'
 import { Container } from './styles'
 
 
@@ -12,6 +12,7 @@ export default function Main() {
 
       <Destaque />
 
+      <Formulario />
     </Container>
 
   )

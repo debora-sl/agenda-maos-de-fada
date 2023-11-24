@@ -9,8 +9,8 @@ export const Cabecalho = styled.div`
 `
 
 export const Logo = styled.img`
-  border: none;
+  border-color: grey;
   margin-left: 600px;
-  height: 150px;
+  height: 225px;
   width: 250px;
 `
