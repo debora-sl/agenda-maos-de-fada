@@ -10,16 +10,15 @@ export const DestaqueImagem = styled.img`
     border: thick solid white;
     border-radius: 5px;
     margin-top: 2rem;
-    height: 300px;
+    height: 249px;
     opacity: 70%;
-    width: 350px;
+    width: 429px;
 `
 
 export const DestaqueTituloDoProcedimento = styled.h2`
   background-color: ${({ theme }) => theme.colors.purple};
   border-radius: 10px;
   font-size: ${({ theme }) => theme.fontSize.xl};
-  margin: 1px 380px;
 
   width: 300px;
 `
