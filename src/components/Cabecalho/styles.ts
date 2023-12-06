@@ -4,8 +4,8 @@ export const Cabecalho = styled.div`
   background-color: ${({ theme }) => theme.colors.lightPurple};
 
   font-size: 2.75rem;
-  height: 4.50rem;
-  padding-top: 0.5rem;
+  height: 4.20rem;
+  padding-top: 0.3rem;
 `
 
 export const Logo = styled.img`
