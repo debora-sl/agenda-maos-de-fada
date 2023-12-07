@@ -15,10 +15,3 @@ export const DestaqueImagem = styled.img`
     width: 775px;
 `
 
-export const DestaqueTituloDoProcedimento = styled.h2`
-  background-color: ${({ theme }) => theme.colors.purple};
-  border-radius: 10px;
-  font-size: ${({ theme }) => theme.fontSize.xl};
-
-  width: 300px;
-`
