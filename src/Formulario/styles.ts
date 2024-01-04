@@ -11,7 +11,7 @@ export const FormularioTitulo = styled.h2`
 export const FormularioTextoInformativo = styled.p`
   color: ${({ theme }) => theme.colors.white};
   font-size: ${({ theme }) => theme.fontSize.lg};
-  margin-top: 11px;
+  margin-top: 15px;
 `
 
 
